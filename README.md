@@ -8,8 +8,8 @@ The project start first by two main statments:
   ## For the main menu, the user is able to do these operations:
           I. Deposit any amount of money
           II. Withdraw any amount of money 
-          III. See his previous Transaction
-          IV. Check his balance
+          III. See the previous Transaction
+          IV. Check the balance
           V. Exit 
           
           
